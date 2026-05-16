@@ -1,0 +1,90 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Primary Brand Color - Warm Rose/Coral */
+  --primary: #f4a0a0;
+  --primary-foreground: #ffffff;
+  
+  /* Neutrals - Soft, Airy Palette */
+  --background: #fafaf8;
+  --foreground: #2d2d2d;
+  --neutral: #e8e8e5;
+  
+  /* Accent - Soft Blush */
+  --soft-blush: #f5ede8;
+  
+  /* Supporting Colors */
+  --accent: #d4a574;
+  --secondary: #ffd9d4;
+  --muted: #f0ebe8;
+  --border: #e8e8e5;
+  --ring: #f4a0a0;
+}
+
+.dark {
+  --primary: #f4a0a0;
+  --primary-foreground: #2d2d2d;
+  --background: #2d2d2d;
+  --foreground: #fafaf8;
+  --neutral: #4a4a47;
+  --soft-blush: #3d3935;
+  --accent: #d4a574;
+  --secondary: #6b5d54;
+  --muted: #4a4a47;
+  --border: #4a4a47;
+  --ring: #d4a574;
+}
+
+@theme inline {
+  --font-sans: 'Geist', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-accent: var(--accent);
+  --color-neutral: var(--neutral);
+  --color-soft-blush: var(--soft-blush);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  
+  html {
+    @apply scroll-smooth;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+  
+  a {
+    @apply transition-colors;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition font-serif font-semibold;
+  }
+  
+  .btn-secondary {
+    @apply px-6 py-3 bg-soft-blush text-foreground rounded-lg hover:bg-soft-blush/80 transition font-serif font-semibold;
+  }
+  
+  .section-padding {
+    @apply py-20 px-4;
+  }
+}
