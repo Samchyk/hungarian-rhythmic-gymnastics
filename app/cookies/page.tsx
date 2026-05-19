@@ -63,7 +63,7 @@ export default function CookiesPage() {
 
             <h2 className="font-serif text-3xl font-bold mt-8 mb-4">6. További Kérdések</h2>
             <p className="text-foreground/70 mb-4 leading-relaxed">
-              Ha kérdése van a cookie-król vagy az Adatvédelmi Irányelvekről, kérjük, vegyék fel velünk a kapcsolatot az <strong>info@magyarritmikus.hu</strong> címen.
+              Ha kérdése van a cookie-król vagy az Adatvédelmi Irányelvekről, kérjük, vegyék fel velünk a kapcsolatot az <strong>info@hungaryrhythmicgymnastics.com</strong> címen.
             </p>
           </div>
         </section>

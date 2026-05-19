@@ -10,35 +10,30 @@ export default function BlogPage() {
       title: 'A Rugalmasság Fejlesztésének Technikái',
       excerpt: 'Megtudja a legjobb módszereket a rugalmasság és mozgástartomány fejlesztésére',
       image: '/blog-flexibility-techniques.jpg',
-      date: '2024',
     },
     {
       slug: 'ribbon-skills',
       title: 'Szalag Kezelés Alapjai',
       excerpt: 'Tanuljon meg alapvető szalag mozgásokat és technikákat',
       image: '/blog-ribbon-skills.jpg',
-      date: '2024.',
     },
     {
       slug: 'beginner-guide',
       title: 'Kezdők Útmutatója a Ritmikus Gimnasztikához',
       excerpt: 'Az ideális kiindulópont azoknak, akik szeretnének elkezdeni',
       image: '/blog-beginner-guide.jpg',
-      date: '2024. február 5.',
     },
     {
       slug: 'music-rhythm',
       title: 'Zene és Ritmus a Gimnasztikában',
       excerpt: 'Fedezze fel a zenei interpretáció fontosságát a teljesítményben',
       image: '/blog-music-rhythm.jpg',
-      date: '2024. február 18.',
     },
     {
       slug: 'modern-trends',
       title: 'Modern Trendek a Ritmikus Gimnasztikában',
       excerpt: 'Az aktuális versenyzési trendek és innovációk',
       image: '/blog-modern-trends.jpg',
-      date: '2024. március 3.',
     },
   ];
 
@@ -67,7 +62,6 @@ export default function BlogPage() {
                         className="object-cover group-hover:scale-105 transition duration-300"
                       />
                     </div>
-                    <p className="text-sm text-foreground/60 mb-2">{article.date}</p>
                     <h2 className="font-serif text-2xl font-bold mb-3 group-hover:text-primary transition">
                       {article.title}
                     </h2>

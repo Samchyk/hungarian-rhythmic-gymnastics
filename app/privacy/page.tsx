@@ -98,7 +98,7 @@ export default function PrivacyPage() {
 
             <h2 className="font-serif text-3xl font-bold mt-8 mb-4">6. Kapcsolatfelvétel</h2>
             <p className="text-foreground/70 mb-4 leading-relaxed">
-              Ha bármilyen kérdése van az Adatvédelmi Irányelvek tekintetében, kérjük, vegyék fel velünk a kapcsolatot az <strong>info@magyarritmikus.hu</strong> címen.
+              Ha bármilyen kérdése van az Adatvédelmi Irányelvek tekintetében, kérjük, vegyék fel velünk a kapcsolatot az <strong>info@hungaryrhythmicgymnastics.com</strong> címen.
             </p>
           </div>
         </section>
