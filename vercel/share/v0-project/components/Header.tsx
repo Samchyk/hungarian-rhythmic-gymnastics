@@ -10,7 +10,7 @@ export function Header() {
     <header className="fixed top-0 w-full bg-background/95 backdrop-blur-sm z-50 border-b border-border">
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="font-serif text-2xl font-bold text-primary">
-          Magyar Ritmikus
+          Hungaryrhythmicgymnastics
         </Link>
 
         {/* Desktop Navigation */}

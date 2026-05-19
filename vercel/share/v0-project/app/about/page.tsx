@@ -21,7 +21,7 @@ export default function AboutPage() {
         <section className="py-16 px-4 bg-soft-blush">
           <div className="max-w-4xl mx-auto">
             <h1 className="font-serif text-5xl font-bold mb-6 text-balance">Rólunk</h1>
-            <p className="text-lg text-foreground/70">A magyar ritmikus gimnasztika misszió: elegancia, művészet és eredmény</p>
+            <p className="text-lg text-foreground/70">A Hungaryrhythmicgymnastics gimnasztika misszió: elegancia, művészet és eredmény</p>
           </div>
         </section>
 
@@ -38,7 +38,7 @@ export default function AboutPage() {
               <div>
                 <h2 className="font-serif text-3xl font-bold mb-4">Ki Vagyunk Mi?</h2>
                 <p className="text-foreground/70 mb-4 leading-relaxed">
-                  A Magyar Ritmikus Gimnasztika Szövetsége egy nonprofit szervezet, amely a ritmikus gimnasztika fejlesztésében és a tehetségek gondozásában dolgozik.
+                  A Hungaryrhythmicgymnastics Gimnasztika Szövetsége egy nonprofit szervezet, amely a ritmikus gimnasztika fejlesztésében és a tehetségek gondozásában dolgozik.
                 </p>
                 <p className="text-foreground/70 mb-4 leading-relaxed">
                   Megalakulásunk óta több mint 50 évvel ezelőtt, híresek vagyunk a magas szintű edzetésről és nemzetközi sikerekről.

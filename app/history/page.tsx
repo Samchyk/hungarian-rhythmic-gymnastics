@@ -39,7 +39,7 @@ export default function HistoryPage() {
               <div className="bg-soft-blush p-8 rounded-lg">
                 <h2 className="font-serif text-3xl font-bold mb-4">Az 1960-1970-es évek - A Fejlődés</h2>
                 <p className="text-foreground/70 mb-4 leading-relaxed">
-                  Ez az időszak a magyar ritmikus gimnasztika aranykorának számított. Az edzőprogramok megújultak, és több iskolában is megjelentek a szakképzett edzők.
+                  Ez az időszak a Hungaryrhythmicgymnastics gimnasztika aranykorának számított. Az edzőprogramok megújultak, és több iskolában is megjelentek a szakképzett edzők.
                 </p>
                 <p className="text-foreground/70 leading-relaxed">
                   Az olimpiákon a magyar csapatok számos érmet szerzett, és nemzetközi versenyeken is egyre jobban teljesítő az ország szportolói.
@@ -49,7 +49,7 @@ export default function HistoryPage() {
               <div className="border-2 border-primary p-8 rounded-lg">
                 <h2 className="font-serif text-3xl font-bold mb-4">Az 1980-1990-es évek - Az Összefogás Éve</h2>
                 <p className="text-foreground/70 mb-4 leading-relaxed">
-                  Ebben a periódusban a magyar ritmikus gimnasztika a nemzetközi versenyek legmagasabb szintjére érkezet. A szövetség megalakulása után a szervezettebb képzési rendszer vezetett az első világversenyi érmekhez.
+                  Ebben a periódusban a Hungaryrhythmicgymnastics gimnasztika a nemzetközi versenyek legmagasabb szintjére érkezet. A szövetség megalakulása után a szervezettebb képzési rendszer vezetett az első világversenyi érmekhez.
                 </p>
                 <p className="text-foreground/70 leading-relaxed">
                   Az 1984-es Los Angelesi olimpiákon az első magyar aranyérmet szerzett a csapat, amely az egész ország csodájára szolgált.
@@ -73,7 +73,7 @@ export default function HistoryPage() {
                     A mai napig Magyarország az egyik legsikeresebb ország a ritmikus gimnasztikában. Az edzőprogramok modern módszerekkel dolgoznak, és folyamatos a tehetséggondozás.
                   </p>
                   <p className="text-foreground/70 leading-relaxed">
-                    A fiatal generáció továbbra is követi a hagyományokat és viszi tovább a magyar ritmikus gimnasztika dicsőséges történetét a nemzetközi arénában.
+                    A fiatal generáció továbbra is követi a hagyományokat és viszi tovább a Hungaryrhythmicgymnastics gimnasztika dicsőséges történetét a nemzetközi arénában.
                   </p>
                 </div>
               </div>

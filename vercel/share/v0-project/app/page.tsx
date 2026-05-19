@@ -25,7 +25,7 @@ export default function Home() {
         
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <h1 className="font-serif text-6xl md:text-7xl font-bold mb-6 text-balance leading-tight">
-            Magyar Ritmikus Gimnasztika
+            Hungaryrhythmicgymnastics Gimnasztika
           </h1>
           <p className="text-xl md:text-2xl text-foreground/80 mb-8 font-light">
             Fedezze fel az elegancia és mozgás művészetét

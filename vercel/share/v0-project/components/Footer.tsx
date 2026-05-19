@@ -11,7 +11,7 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <h3 className="font-serif text-2xl font-bold mb-4">Magyar Ritmikus</h3>
+            <h3 className="font-serif text-2xl font-bold mb-4">Hungaryrhythmicgymnastics</h3>
             <p className="text-background/70">Az elegancia és mozgás művészetének hazája</p>
           </div>
 

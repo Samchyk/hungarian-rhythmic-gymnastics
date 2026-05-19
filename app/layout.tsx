@@ -9,7 +9,7 @@ const geist = Geist({ subsets: ["latin"], variable: '--font-sans' });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: '--font-serif' });
 
 export const metadata: Metadata = {
-  title: 'Magyar Ritmikus Gimnasztika - Elegancia és Mozgás Művészete',
+  title: 'Hungaryrhythmicgymnastics Gimnasztika - Elegancia és Mozgás Művészete',
   description: 'Fedezze fel a ritmikus gimnasztika világát: képzések, történelem, technikák és az elegancia sportjának titkait Magyarországon.',
 }
 

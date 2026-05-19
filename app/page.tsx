@@ -101,7 +101,7 @@ export default function Home() {
                 Az edzés a szépség és teljesítmény kulcsa. Minden nap száz versenyzőnk dolgozik az ötletek megvalósítására és saját céljaik elérésére.
               </p>
               <p className="text-foreground/70 mb-6 leading-relaxed">
-                Az akaraterő, türelem és kitartás - ezek az eszmények, amelyeket a magyar ritmikus gimnasztika képvisel.
+                Az akaraterő, türelem és kitartás - ezek az eszmények, amelyeket a Hungaryrhythmicgymnastics gimnasztika képvisel.
               </p>
               <Link 
                 href="/about"
@@ -154,7 +154,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="font-serif text-4xl font-bold mb-6">Csatlakozz a Közösségünkhez</h2>
           <p className="text-lg text-foreground/70 mb-8">
-            Akár kezdő vagy, akár tapasztalt - van helye számodra a magyar ritmikus gimnasztika világában
+            Akár kezdő vagy, akár tapasztalt - van helye számodra a Hungaryrhythmicgymnastics gimnasztika világában
           </p>
           <Link 
             href="/about"
