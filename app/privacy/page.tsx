@@ -23,7 +23,7 @@ export default function PrivacyPage() {
 
             <h2 className="font-serif text-3xl font-bold mt-8 mb-4">1. Bevezetés</h2>
             <p className="text-foreground/70 mb-4 leading-relaxed">
-              A Magyar Ritmikus Gimnasztika Szövetsége (a továbbiakban: "szervezet", "mi", "ránk") elkötelezett az Ön személyes adatainak védelme iránt. Ez az Adatvédelmi Irányelvek felkészít, hogy megértse, hogyan gyűjtjük, használjuk és védjük személyes adatait.
+              Hungaryrhythmicgymnastics (a továbbiakban: "szervezet", "mi", "ránk") elkötelezett az Ön személyes adatainak védelme iránt. Ez az Adatvédelmi Irányelvek felkészít, hogy megértse, hogyan gyűjtjük, használjuk és védjük személyes adatait.
             </p>
 
             <h2 className="font-serif text-3xl font-bold mt-8 mb-4">2. Az Adatok Gyűjtése</h2>

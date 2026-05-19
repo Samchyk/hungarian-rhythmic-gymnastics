@@ -66,7 +66,7 @@ export function Footer() {
 
         {/* Bottom */}
         <div className="border-t border-background/20 pt-8 text-center text-background/60 text-sm">
-          <p>&copy; {currentYear} Magyar Ritmikus Gimnasztika. Minden jog fenntartva.</p>
+          <p>&copy; {currentYear} Hungaryrhythmicgymnastics.</p>
         </div>
       </div>
     </footer>
